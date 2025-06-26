@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76575ACB-1DFF-4893-BD0E-CE57EFED27B9}|FarManager\\FarManager.vcxproj|C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\FarManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76575ACB-1DFF-4893-BD0E-CE57EFED27B9}|FarManager\\FarManager.vcxproj|solutionrelative:FarManager\\FarManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76575ACB-1DFF-4893-BD0E-CE57EFED27B9}|FarManager\\FarManager.vcxproj|C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\Tools_Asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76575ACB-1DFF-4893-BD0E-CE57EFED27B9}|FarManager\\FarManager.vcxproj|solutionrelative:FarManager\\Tools_Asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tools_Asm.asm",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\Tools_Asm.asm",
+              "RelativeDocumentMoniker": "FarManager\\Tools_Asm.asm",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\Tools_Asm.asm",
+              "RelativeToolTip": "FarManager\\Tools_Asm.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T13:22:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FarManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\FarManager.cpp",
+              "RelativeDocumentMoniker": "FarManager\\FarManager.cpp",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Projects\\FARManager\\FarManager\\FarManager\\FarManager.cpp",
+              "RelativeToolTip": "FarManager\\FarManager.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T13:16:28.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
