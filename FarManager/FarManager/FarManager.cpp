@@ -63,7 +63,7 @@ int main(void)
 
     SPos pos(2, 1);
 
-    Draw_Line((int *)screen_buffer, pos, 10, symbol);
+    Draw_Line(screen_buffer, pos, 10, symbol);
 
     if (!WriteConsoleOutput(screen_buffer_handle, screen_buffer, screen_buffer_info.dwSize, screen_buffer_pos, &screen_buffer_info.srWindow))
     {
